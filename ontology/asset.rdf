@@ -1756,7 +1756,7 @@
 
     <owl:DatatypeProperty rdf:about="https://w3id.org/rec/asset/powerDensity">
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
-        <rdfs:comment xml:lang="en">Watts/square meter</rdfs:comment>
+        <rdfs:comment xml:lang="en">Watts/length unit</rdfs:comment>
         <rdfs:label xml:lang="en">power density</rdfs:label>
     </owl:DatatypeProperty>
     
